@@ -2,11 +2,13 @@
 Just a simple .exe file created using the C language.
 
 **-- HOW TO USE THE FILE**<br/>
-**syntax: &nbsp; &nbsp; writer &nbsp; filename &nbsp; "text_to_write"**<br/>
-The exe takes two arguments: the filename (to be created) and the text (to be written to the file).
+**syntax: &nbsp; &nbsp; writer &nbsp; \<filename\> &nbsp; \<"text_to_write"\>**<br/>
+**syntax: &nbsp; &nbsp; writer.exe &nbsp; \<filename\> &nbsp; \<"text_to_write"\>**<br/> 
+The .exe file/command can be used with or without the .exe extension
+The .exe file takes two arguments: the filename (to be created) and the text (to be written to the file).
 On any windows machine, open command prompt and change the directory (cd) to where the downloaded file is.
-Then, type the name of the file with the arguments specified above.<br/>
-**NOTE: the text has to be written with double quotes surrounding it ex. "Hello World!".**<br/>
+Then, type the name of the file with the arguments specified above.<br/><br/>
+**NOTE: the text has to be written with double quotes surrounding it ex. "Hello World!".**<br/><br/>
 There will be a new .txt file (text file) located in the same directory in which the command was executed.
 Click on the file and open it, wahla! The text has been written to the file.
 
