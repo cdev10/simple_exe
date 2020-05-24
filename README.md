@@ -2,7 +2,7 @@
 Just a simple .exe file created using the C language.
 
 **-- HOW TO USE THE FILE**<br/>
-**syntax: writer <filename> <"text_to_write">**<br/>
+**syntax: &nbsp; &nbsp; writer &nbsp; filename &nbsp; "text_to_write"**<br/>
 The exe takes two arguments: the filename (to be created) and the text (to be written to the file).
 On any windows machine, open command prompt and change the directory (cd) to where the downloaded file is.
 Then, type the name of the file with the arguments specified above.<br/>
