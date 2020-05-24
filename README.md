@@ -4,7 +4,8 @@ Just a simple .exe file created using the C language.
 -- HOW TO USE THE FILE
 The exe takes two arguments: the filename (to be created) and the text (to be written to the file).
 On any windows machine, open command prompt and change the directory (cd) to where the downloaded file is.
-Then, type the name of the file with the arguments specified above.
+Then, type the name of the file with the arguments specified above. 
+**NOTE: the text has to be written with double quotes surrounding it ex. "Hello World!".**
 There will be a new .txt file (text file) located in the same directory in which the command was executed.
 Click on the file and open it, wahla! The text has been written to the file.
 
